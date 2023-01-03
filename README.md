@@ -1,3 +1,7 @@
+# DISCONTINUATION OF PROJECT #
+This project will no longer be maintained by Intel.
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.
+Intel no longer accepts patches to this project.
 # Utilities
 
 ![coverage|99.3%](https://img.shields.io/static/v1?label=coverage&message=99.3%&color=brightgreen&style=flat-square) ![license|BSD-3-Clause](https://img.shields.io/static/v1?label=license&message=BSD-3-Clause&color=blue&style=flat-square)
